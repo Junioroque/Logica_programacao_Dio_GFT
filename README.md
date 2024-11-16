@@ -2,3 +2,4 @@
 <h2> Os desafios da lógica de progarmação</h2> <br>
 - Desafio Classificador de nível de Herói <br>
 - Calculadora de partidas Rankeadas
+- Escrevendo as classes de um Jogo
